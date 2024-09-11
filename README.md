@@ -1,6 +1,6 @@
 <h1>Mario Bros</h1>
 <br>
-<a href="https://wellitonsansao07.github.io/MARIO-BROS">Veja aqui/</a>
+<a href="https://wellitonsansao07.github.io/MARIO-BROS">Veja aqui o site de formulário</a>
 <h2>Formulário desenvolvido utilizando:</h2>
 <br>
 <li>HTML</li>
